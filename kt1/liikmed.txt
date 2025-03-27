@@ -1,0 +1,12 @@
+Tavaliige;Mart Mets;39;6;jõusaal
+Preemiumliige;Anna Tamm;27;12;jõusaal,ujula,rühmatreeningud,spaa
+Preemiumliige;Jaan Vaher;45;3;jõusaal,saun
+Tavaliige;Kati Lepp;31;1;rühmatreeningud
+Preemiumliige;Peeter Kask;42;9;ujula,jõusaal,spaa
+Tavaliige;Valve Varblane;62;19;cardio
+Tavaliige;Peet Tihane;59;14;ujula
+Preemiumliige;Heli Kopter;33;33;rühmatreeningud,ujula,spaa
+Tavaliige;Ants Aus;16;3;boks
+Tavaliige;Sulev Palk;50;29;ujula
+Tavaliige;Aadu Suur;27;11;pilates
+Preemiumliige;Liis Vesiliiv;31;15;ujula,saun'
